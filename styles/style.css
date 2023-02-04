@@ -418,7 +418,7 @@
 .footer__logo {
   width: 116px;
   height: 21px;
-  align-self: top;
+  align-self: start;
 }
 
 .footer__list {
