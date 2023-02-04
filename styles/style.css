@@ -267,13 +267,12 @@
 .staff__cards {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   max-width: 760px;
   margin: auto;
   margin-top: 68px;
   /*margin: 68px auto 0px;*/
   gap: 40px;
-  list-style-type: none;
 }
 
 .card {
@@ -283,6 +282,7 @@
   box-sizing: border-box;
   height: 420px;
   width: 360px;
+  list-style-type: none;
 }
 
 .card__content {
