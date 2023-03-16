@@ -11,4 +11,4 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 
 ## Link to Website
 
-[Link to Deployed Website](kifzig.github.io/se_project_library)
+[Link to Deployed Website](https://kifzig.github.io/se_project_library/)
